@@ -1,44 +1,44 @@
 
-# PokeBuddy - A Pokemon Go Bot
+# PokeBuddy - Un Pokemon Go Bot
 
 ![ui](https://camo.githubusercontent.com/6d180426322d8fa37ed91c790bb62e26847e0df0/68747470733a2f2f692e696d6775722e636f6d2f66456737675a672e706e67 "PokeBuddy GUI")
 
-## Fast Setup Guide
+## Guía de instalación rápida
 
-### 1. Download the PokeBuddy zip file.
+### 1. Descargar el archivo zip PokeBuddy.
 
-![Download](http://i.imgur.com/91yPefk.jpg "Download")
+! [Descargar] (http://i.imgur.com/91yPefk.jpg "Descargar")
 
-### 2. Unzip the data and start "PokeBuddy.exe".
+### 2. Descomprimir los datos y empezar a "PokeBuddy.exe".
 
-### 3. Enter FREE-BETA and log in.
-![Free-Beta Authentication](https://i.imgur.com/U5FOGQB.jpg "Authentication")
+### 3. Introduzca LIBRE-BETA e iniciar sesión.
+! [Free-Beta de autenticación] (https://i.imgur.com/U5FOGQB.jpg "Autenticación")
 
-### 4. Select **Settings**. Enter your Username + Password for Pokemon GO.
+### 4. Seleccione Ajustes ** **. Introduzca su nombre de usuario + contraseña para Pokemon GO.
 
-![PokemonGo Login](https://i.imgur.com/AsOrdvX.jpg "PokemonGo Login")
+! [PokemonGo Inicio de sesión] (https://i.imgur.com/AsOrdvX.jpg "PokemonGo de sesión")
 
-### 5. Select **Done** and **Start** for your fully automatic Pokemon GO adventure.
+### 5. Seleccione Hecho ** ** y ** ** Start para su aventura totalmente automático Pokemon GO.
 
-## Further  Setup options
+## Otras opciones de Configuración
 
-# Features
+# Caracteristicas
 
-- PTC / Google Account support
-- Get Map Objects and Inventory
-- Farm Pokestops
-- Throw berries / Use the best Pokeball
-- Transfers duplicate Pokemon
-- Evolve all Pokemon
-- Throw away unneeded items
-- Human-like walking
-- Auto-updating / Version checking
-- Use Lucky Egg when evolving Pokemon for best EXP rate
+- Cuenta de apoyo PTC / Google
+- Obtener correlación de objetos y de inventario
+- Pokestops Granja
+- Bayas Throw / Uso Las mejores Pokeball
+- Transferencias duplican Pokemon
+- Evolucionar todos los Pokémon
+- Deshágase de elementos que no sean necesarios
+- Caminar similar a la humana
+- Actualización automática / Comprobación de versión
+- Uso de Lucky Egg al evolucionar Pokemon a la mejor tasa de CAD
 
-## FAQ
+## PREGUNTAS MÁS FRECUENTES
 
 ### TBD
 
 #Legal
 
-This Project is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial API for educational use ONLY. Using the Project might be against the TOS
+Este proyecto es de ninguna manera afiliado con, autorizada, mantenida, patrocinado o respaldado por Niantic, The Pokémon Company, Nintendo o cualquiera de sus filiales o subsidiarias. Esta es una API independiente y no oficial para uso educativo. Utilizando el proyecto podría estar en contra de las Condiciones de Uso
