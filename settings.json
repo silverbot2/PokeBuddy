@@ -1357,8 +1357,8 @@
       "Item": 201
     },
     {
-      "Amount": 0,
-      "Item": 202
+      "Amount": 1,
+      "Item": 203
     }
   ],
   "PokemonNotToCatch": null
